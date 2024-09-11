@@ -257,7 +257,7 @@
       "plot": "./plots/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "thatmicpre-panels-spilit.step",
       "svg": "",
       "vrml": ""
     },
