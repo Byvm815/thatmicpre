@@ -4,7 +4,7 @@
 
 
 
-I also replaced the NC3MBH1 with the NCJ6FA-H, which is compatible with both 6.35mm TRS and XLR connectors. However, I haven’t fabricated or tested the new mainboard. Anyone interested can fabricate it directly; I believe the design should work without issues.
+I also replaced the NC3MBH1 with the NCJ6FA-H, which is compatible with both 6.35mm TRS and XLR connectors. I have fabricated or tested the new mainboard. Anyone interested can fabricate it directly; the design has been work without issues.
 
 During the process, I used That1512 and SSM2019 chips purchased from Taobao, but neither produced an output. Finally, I bought a second-hand AD620 from Taobao for just $0.6, with free shipping, and it worked as expected.
 
