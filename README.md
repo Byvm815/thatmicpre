@@ -1,3 +1,23 @@
+# Fork 
+1. Slightly reduced the width of the mainboard to fit aluminum cases available on China's Taobao.
+2. Adjusted the panel layout height and the positions and sizes of the mounting holes to match the aluminum cases on Taobao.
+
+
+
+I also replaced the NC3MBH1 with the NCJ6FA-H, which is compatible with both 6.35mm TRS and XLR connectors. However, I haven’t fabricated or tested the new mainboard. Anyone interested can fabricate it directly; I believe the design should work without issues.
+
+During the process, I used That1512 and SSM2019 chips purchased from Taobao, but neither produced an output. Finally, I bought a second-hand AD620 from Taobao for just $0.6, with free shipping, and it worked as expected.
+
+I hope my experience can help others avoid unnecessary trouble.
+
+(I am not good at English, and all of this was translated using ChatGPT.)
+
+![alt text](docs/O1CN01SFU2Bq1aTBe6E1Yjx_!!2320083330.png)
+![alt text](<docs/Screenshot from 2024-11-28 15-55-45.png>)
+![alt text](<docs/Screenshot from 2024-11-28 16-01-45.png>)
+
+=====
+
 ThatMicPre
 =====
 A simple, high-quality DIY microphone pre-amplifier with switched gain.
