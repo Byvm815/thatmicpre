@@ -692,6 +692,18 @@
 		)
 		(embedded_fonts no)
 	)
+	(gr_rect
+		(start 134.05 108.7)
+		(end 138.05 112.7)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill yes)
+		(layers "B.Cu" "B.Mask")
+		(net "GND")
+		(uuid "a2ca332c-2084-45df-bee3-c7a789178dd9")
+	)
 	(gr_circle
 		(center 131.887984 121.795736)
 		(end 128.387984 121.795736)
@@ -1199,7 +1211,7 @@
 			)
 		)
 	)
-	(gr_text "v2.1"
+	(gr_text "v2.4"
 		(at 120.4722 122.0216 90)
 		(layer "F.SilkS")
 		(uuid "0bc45355-728b-4f4b-9632-827cc6807ab1")
